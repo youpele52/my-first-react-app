@@ -37,4 +37,12 @@ export const data = [
     title:
       "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
   },
+  {
+    id: 6,
+    img:
+      'https://images-na.ssl-images-amazon.com/images/I/41AJKOyiGML._SX330_BO1,204,203,200_.jpg',
+    author: 'Geoffrey A. Moore',
+    title:
+      'Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers',
+  },
 ]
