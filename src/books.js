@@ -29,4 +29,12 @@ export const data = [
     title:
       'Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future ',
   },
+  {
+    id: 5,
+    img:
+      'https://images-na.ssl-images-amazon.com/images/I/519+lxViV1L._SX373_BO1,204,203,200_.jpg',
+    author: 'Clayton M. Christensen',
+    title:
+      "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail",
+  },
 ]
